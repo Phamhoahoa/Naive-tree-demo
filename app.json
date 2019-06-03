@@ -1,0 +1,7 @@
+{
+    "UserName" : "root",
+    "Password" :"Phamhoaqd0;",
+    "Port" : ":8080",
+    "DbName" : "food",
+    "DbAddress":"@tcp(127.0.0.1:3306)"
+}
